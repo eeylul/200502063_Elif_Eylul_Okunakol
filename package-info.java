@@ -1,1 +1,1 @@
-package mypack;
+package com.know.jdbc;
