@@ -1,0 +1,1 @@
+SELECT * FROM customer.customer,customer.customer_adress where customer.id_customer=customer_adress.id_adress ;

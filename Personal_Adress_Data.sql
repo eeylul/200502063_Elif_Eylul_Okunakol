@@ -1,0 +1,1 @@
+SELECT * FROM personal.personal,personal.personal_adress where personal.id_personal=personal_adress.id_adress;
